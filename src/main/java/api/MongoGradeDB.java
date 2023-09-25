@@ -190,6 +190,7 @@ public class MongoGradeDB implements GradeDB {
     //       Hint: Read apiDocuments/getMyTeam.md and refer to the above
     //             methods to help you write this code (copy-and-paste + edit as needed).
     public Team getMyTeam() {
+        int i = 1;
         return null;
     }
 }
